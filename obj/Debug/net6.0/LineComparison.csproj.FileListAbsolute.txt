@@ -1,0 +1,15 @@
+E:\c#\LineComparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.exe
+E:\c#\LineComparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.deps.json
+E:\c#\LineComparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.runtimeconfig.json
+E:\c#\LineComparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.dll
+E:\c#\LineComparison\LineComparison\LineComparison\bin\Debug\net6.0\ref\LineComparison.dll
+E:\c#\LineComparison\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.pdb
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.csproj.AssemblyReference.cache
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfoInputs.cache
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfo.cs
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.csproj.CoreCompileInputs.cache
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.dll
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\ref\LineComparison.dll
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.pdb
+E:\c#\LineComparison\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.genruntimeconfig.cache
